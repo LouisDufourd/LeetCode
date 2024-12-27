@@ -137,11 +137,6 @@ object Solution {
         }
     }
 
-
-    fun longestPalindrome(s: String): String {
-        TODO("Problems not resolved yet")
-    }
-
     /**
      * Converts a Roman numeral string to its integer representation.
      *
